@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Dice()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ D6\r\n
+comment1.params=
+comment1.target=int\ D6()
+comment2.params=
+comment2.target=int\ D20()
+comment3.params=
+comment3.target=int\ D8()
+numComments=4
